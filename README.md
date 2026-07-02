@@ -1,7 +1,6 @@
 # garmin-consent-management-prototype
 Full-stack prototype for managing wearable health-data consent preferences using JavaScript, Node.js, Express, HTML, and CSS.
 
-readme.md
 # Garmin Consent Management Prototype
 
 A full-stack web application developed as part of a Software Engineering course project that demonstrates secure management of user consent for wearable health-data sharing.
